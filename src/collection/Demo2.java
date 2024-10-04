@@ -27,7 +27,7 @@ public class Demo2 {
 		System.out.println(abc.size()); // 7
 		System.out.println(abc); // 7
 
-		//
+		//ot
 
 	}
 
